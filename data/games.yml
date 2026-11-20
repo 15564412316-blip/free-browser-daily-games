@@ -1,0 +1,112 @@
+# Single source of truth for README.md.
+# Regenerate with: python scripts/build_readme.py
+# `ours` is an internal flag and is never shown in the README.
+# `last_checked` is the date of the latest full link check.
+
+last_checked: "2026-11-20"
+
+sections:
+  - id: rare-answer
+    title: "Rare-answer trivia (Krillion-style)"
+    intro: "Games where you name a valid answer and score more for the ones fewer people would think of."
+  - id: common-answer
+    title: "Most-common-answer games (Noillirk / Crowdict-style)"
+    intro: "Guess the answer most people would give."
+  - id: gta6
+    title: "GTA 6 fan games and tools"
+    intro: "Unofficial fan-made browser games and tools."
+  - id: directories
+    title: "Where to find more daily games"
+    intro: "Directories that list many daily browser games."
+
+games:
+  - name: "Krillion"
+    url: "https://krillion.io/"
+    section: rare-answer
+    ours: false
+    added: "2026-11-19"
+    desc: "Daily dive of 7 general-trivia prompts; rarer valid answers score deeper."
+  - name: "Krillion Pokemon pack"
+    url: "https://krillion.cc/krillion-pokemon/"
+    section: rare-answer
+    ours: false
+    added: "2026-11-19"
+    desc: "Random 7-prompt dives drawn from a pack of about a hundred Pokémon prompts."
+  - name: "PokéKrill"
+    url: "https://pokekrill.com/"
+    section: rare-answer
+    ours: false
+    added: "2026-11-19"
+    desc: "Pokémon questions that also cover trainers, moves and places; one daily journey plus practice."
+  - name: "PokéKrillion"
+    url: "https://www.pokekrillion.com/"
+    section: rare-answer
+    ours: false
+    added: "2026-11-19"
+    desc: "Typed Pokémon version: 7 prompts, 20 seconds each, daily and practice dives."
+  - name: "Pokémon Krillion"
+    url: "https://pokemonkrillion.com/"
+    section: rare-answer
+    ours: true
+    added: "2026-11-19"
+    desc: "Pokémon edition with a no-typing Quick Pick mode (pick from 6 cards, 3 are decoys) plus a typed Classic mode; daily and practice."
+  - name: "Noillirk"
+    url: "https://noillirk.com/"
+    section: common-answer
+    ours: false
+    added: "2026-11-19"
+    desc: "Guess the answer most people would give; daily set plus practice."
+  - name: "Noillirk Answers"
+    url: "https://noillirkanswers.com/"
+    section: common-answer
+    ours: true
+    added: "2026-11-19"
+    desc: "Daily hints and the ranked top-five answers for each prompt, hidden until you choose to reveal them."
+  - name: "GTA Mapped – Where in Leonida?"
+    url: "https://gtamapped.com/guess"
+    section: gta6
+    ours: false
+    added: "2026-11-19"
+    desc: "Read clues and pin the location on a fan-made Leonida map."
+  - name: "GTA6dle"
+    url: "https://www.gta6dle.com/"
+    section: gta6
+    ours: false
+    added: "2026-11-19"
+    desc: "Daily GTA guessing game with character, map, quote and vehicle modes."
+  - name: "Vice Arcade (GTA 6 Mini Games)"
+    url: "https://gta6minigames.com/"
+    section: gta6
+    ours: true
+    added: "2026-11-19"
+    desc: "Original browser mini games: a 60-second neon street run, a map guessr and a daily car-silhouette puzzle."
+  - name: "Dailies Play"
+    url: "https://dailiesplay.com/"
+    section: directories
+    ours: true
+    added: "2026-11-20"
+    desc: "Directory of daily browser games with rules, reset times and spoiler-free dated answer pages; free, no account."
+  - name: "Dle Hunt"
+    url: "https://dlehunt.com/"
+    section: directories
+    ours: false
+    added: "2026-11-19"
+    desc: "Directory of daily puzzle games with ratings."
+  - name: "itch.io – daily tag"
+    url: "https://itch.io/games/tag-daily"
+    section: directories
+    ours: false
+    added: "2026-11-19"
+    desc: "Indie games tagged \"daily\"."
+  - name: "Listdle"
+    url: "https://listdle.com/"
+    section: directories
+    ours: false
+    added: "2026-11-19"
+    desc: "Large list of daily games like Wordle, by category."
+  - name: "The Dles"
+    url: "https://dles.aukspot.com/"
+    section: directories
+    ours: false
+    added: "2026-11-19"
+    desc: "800+ free daily games by category."
