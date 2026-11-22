@@ -110,3 +110,9 @@ games:
     ours: false
     added: "2026-11-19"
     desc: "800+ free daily games by category."
+  - name: "Best Daily Games"
+    url: "https://bestdaily.games/"
+    section: directories
+    ours: false
+    added: "2026-11-22"
+    desc: "Browse daily browser puzzles by category, read rules, and open the original games. My Daily saves a personal play list in the browser."

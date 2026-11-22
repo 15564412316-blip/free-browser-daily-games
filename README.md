@@ -48,6 +48,7 @@ Directories that list many daily browser games.
 
 | Game | What it is |
 | --- | --- |
+| [Best Daily Games](https://bestdaily.games/) | Browse daily browser puzzles by category, read rules, and open the original games. My Daily saves a personal play list in the browser. |
 | [Dailies Play](https://dailiesplay.com/) | Directory of daily browser games with rules, reset times and spoiler-free dated answer pages; free, no account. |
 | [Dle Hunt](https://dlehunt.com/) | Directory of daily puzzle games with ratings. |
 | [itch.io – daily tag](https://itch.io/games/tag-daily) | Indie games tagged "daily". |
