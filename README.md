@@ -30,6 +30,7 @@ Guess the answer most people would give.
 | Game | What it is |
 | --- | --- |
 | [Noillirk](https://noillirk.com/) | Guess the answer most people would give; daily set plus practice. |
+| [Noillirk (Puffer Party edition)](https://pufferparty.org/noillirk/) | Independent edition with seven 25-second common-answer prompts in Daily mode and separate Classic and Endless modes. |
 | [Noillirk Answers](https://noillirkanswers.com/) | Daily hints and the ranked top-five answers for each prompt, hidden until you choose to reveal them. |
 
 ## GTA 6 fan games and tools

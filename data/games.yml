@@ -56,6 +56,12 @@ games:
     ours: false
     added: "2026-11-19"
     desc: "Guess the answer most people would give; daily set plus practice."
+  - name: "Noillirk (Puffer Party edition)"
+    url: "https://pufferparty.org/noillirk/"
+    section: common-answer
+    ours: false
+    added: "2026-11-23"
+    desc: "Independent edition with seven 25-second common-answer prompts in Daily mode and separate Classic and Endless modes."
   - name: "Noillirk Answers"
     url: "https://noillirkanswers.com/"
     section: common-answer
